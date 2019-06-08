@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="jirap",
-    version="0.0.3",
+    version="0.0.5",
     author="Xavier Mabras",
     author_email="xavier.mabras@protonmail.ch",
     description="A small example package",
